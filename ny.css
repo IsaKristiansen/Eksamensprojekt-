@@ -16,9 +16,9 @@ body {
   "header header header header header header"
   "menu menu main main right right"
   "footer footer footer footer footer footer";
-  grid-gap: 10px;
+  grid-gap: 11px;
   background-color: #2196F3;
-  padding: 10px
+  padding: 11px
 }
 
 .grid-container > div {
